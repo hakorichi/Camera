@@ -1,0 +1,684 @@
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\MIV_cam.exe.config
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\MIV_cam.exe
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\MIV_cam.pdb
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.GPU.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.ML.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.OCR.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.Stitching.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.UI.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.Util.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\ZedGraph.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.GPU.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.ML.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.OCR.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.Stitching.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.CV.UI.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Emgu.Util.xml
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\obj\Debug\MIV_cam.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\obj\Debug\MIV_cam.MIV_cam.resources
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\obj\Debug\MIV_cam.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\obj\Debug\MIV_cam.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\obj\Debug\MIV_cam.exe
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\obj\Debug\MIV_cam.pdb
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\DirectShowLib-2005.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\cublas32_42_9.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\cudart32_42_9.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\cufft32_42_9.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\cvextern.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\cvextern_gpu.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\npp32_42_9.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_calib3d240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_contrib240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_core240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_features2d240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_ffmpeg240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_flann240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_gpu240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_highgui240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_imgproc240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_legacy240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_ml240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_nonfree240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_objdetect240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_photo240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_stitching240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_video240.dll
+d:\documents\visual studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\opencv_videostab240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\DPPDLL.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\DPPLibCom.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\DPPRSC.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\EDSDK.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\EdsImage.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Mlib.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\Ucs32P.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1001_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1011_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_fa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\1021_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6000.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6001_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6011_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6021_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6031_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6041_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6051_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6061_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_N.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6071_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_F.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_L.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_P.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_S.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6081_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6101_faf.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6101_lnd.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6101_ntl.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6101_ptr.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6101_std.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6171_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6171_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6171_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6171_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6181_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6191_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6201_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6211_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6221_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6231_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6241_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6251_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6261_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6271_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6281_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6291_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6301_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6311_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6321_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6331_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_FA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_fafa.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_fafs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_FS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_LA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_lnda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_lnds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_LS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_NA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_NS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_ntla.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_ntls.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_PA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_PS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_ptra.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_ptrs.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_SA.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_SS.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_stda.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\6341_stds.BIN
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\AdobeRGB.icc
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\AppleRGB.icc
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\ColorMatchRGB.icc
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\FA.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\FS.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\LA.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\LS.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\NA.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\NS.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\PA.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\PS.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\SA.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\sRGB Color Space Profile.icm
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\sRGB Profile.icc
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\SS.ICC
+D:\Documents\Visual Studio 2012\Projects\MIV_cam\MIV_cam\bin\Debug\icc\WideGamutRGB.icc
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.config
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.pdb
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.MIV_cam.resources
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\cublas32_42_9.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\cudart32_42_9.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\cufft32_42_9.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\cvextern.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\cvextern_gpu.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\npp32_42_9.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_calib3d240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_contrib240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_core240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_features2d240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_ffmpeg240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_flann240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_gpu240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_highgui240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_imgproc240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_legacy240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_ml240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_nonfree240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_objdetect240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_photo240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_stitching240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_video240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\opencv_videostab240.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.pdb
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\DirectShowLib-2005.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\EDSDKLib.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.GPU.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.ML.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.OCR.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.Stitching.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.Util.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\ZedGraph.dll
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\EDSDKLib.pdb
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.GPU.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.ML.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.OCR.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.Stitching.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\Emgu.Util.xml
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.application
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe.manifest
+D:\Documents\Visual Studio 2012\Projects\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.application
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.config
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.pdb
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csprojResolveAssemblyReference.cache
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.MIV_cam.resources
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.Properties.Resources.resources
+D:\Desktop\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csproj.GenerateResource.Cache
+D:\учеба\Гужов\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.config
+D:\учеба\Гужов\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe
+D:\учеба\Гужов\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.pdb
+E:\учеба\Гужов\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.config
+E:\учеба\Гужов\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe
+E:\учеба\Гужов\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.pdb
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.config
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.pdb
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csprojResolveAssemblyReference.cache
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.MIV_cam.resources
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.Properties.Resources.resources
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csproj.GenerateResource.Cache
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cublas32_42_9.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cudart32_42_9.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cufft32_42_9.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cvextern.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cvextern_gpu.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\npp32_42_9.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_calib3d240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_contrib240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_core240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_features2d240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_ffmpeg240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_flann240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_gpu240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_highgui240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_imgproc240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_legacy240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_ml240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_nonfree240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_objdetect240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_photo240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_stitching240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_video240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_videostab240.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.manifest
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.application
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.pdb
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\DirectShowLib-2005.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\EDSDKLib.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.GPU.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.ML.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.OCR.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.UI.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.Util.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\ZedGraph.dll
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe.manifest
+E:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.application
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cublas32_42_9.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cudart32_42_9.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cufft32_42_9.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cvextern.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\cvextern_gpu.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\npp32_42_9.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_calib3d240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_contrib240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_core240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_features2d240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_ffmpeg240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_flann240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_gpu240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_highgui240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_imgproc240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_legacy240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_ml240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_nonfree240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_objdetect240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_photo240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_stitching240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_video240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\opencv_videostab240.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.config
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe.manifest
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.application
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.exe
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\MIV_cam.pdb
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\DirectShowLib-2005.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\EDSDKLib.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.GPU.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.ML.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.OCR.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.CV.UI.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\Emgu.Util.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\bin\Debug\ZedGraph.dll
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csprojAssemblyReference.cache
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.MIV_cam.resources
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.Properties.Resources.resources
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csproj.GenerateResource.cache
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csproj.CoreCompileInputs.cache
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe.manifest
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.application
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.csproj.CopyComplete
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.exe
+D:\YCHEBA\GUJOV\MIV_cam sample\MIV_camCanon\MIV_cam\obj\Debug\MIV_cam.pdb
